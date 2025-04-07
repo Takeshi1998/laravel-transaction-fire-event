@@ -1,5 +1,5 @@
 {
-    "name": "technote/laravel-transaction-fire-event",
+    "name": "takeshi1998/laravel-transaction-fire-event",
     "type": "library",
     "license": "MIT",
     "description": "Controlling events that occur in a transaction",
